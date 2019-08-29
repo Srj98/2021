@@ -4,6 +4,7 @@ feature_text: |
   <h2>Study materials for S5 </h2>
 feature_image: "https://picsum.photos/2560/600?image=873"
 aside: true
+permalink: /resources/
 ---
 
 ## **Computer Graphics**
