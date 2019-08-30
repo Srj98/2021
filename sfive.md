@@ -3,6 +3,7 @@ title: Semester 5
 feature_text: |
   <h2>Study materials for S5 </h2>
 feature_image: "https://picsum.photos/2560/600?image=873"
+permalink: /sfive/
 aside: true
 ---
 
