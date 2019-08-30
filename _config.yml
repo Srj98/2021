@@ -102,13 +102,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Semester 5
-  url: /resources/sfive/
+  url: /sfive/
 - title: Semester 6
-  url: /resources/ssix/
+  url: /ssix/
 - title: Time table
-  url: /resources/timetable/
+  url: /timetable/
 - title: Search
-  url: /resources/search/
+  url: /search/
 
 navigation_footer:
 - title: Created by a student
