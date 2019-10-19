@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Semester 5
 feature_text: |
   <h2>Study materials for S5 </h2>
