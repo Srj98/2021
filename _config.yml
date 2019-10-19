@@ -98,17 +98,17 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 
 # 9. Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Semester 5
-  url: /sfive/
-- title: Semester 6
-  url: /ssix/
-- title: Time table
-  url: /timetable/
-- title: Search
-  url: /search/
+# navigation_header:
+# - title: Home
+#   url: /
+# - title: Semester 5
+#   url: /sfive/
+# - title: Semester 6
+#   url: /ssix/
+# - title: Time table
+#   url: /timetable/
+# - title: Search
+#   url: /search/
 
 navigation_footer:
 - title: Created by a student
